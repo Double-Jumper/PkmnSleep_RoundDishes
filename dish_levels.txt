@@ -1,0 +1,48 @@
+Fancy Apple Curry: 1
+Simple Chowder: 1
+Beanburger Curry: 1
+Mild Honey Curry: 1
+Solar Power Tomato Curry: 1
+Drought Katsu Curry: 1
+Hearty Cheeseburger Curry: 1
+Melty Omelette Curry: 1
+Soft Potato Chowder: 1
+Spore Mushroom Curry: 1
+Bulk Up Bean Curry: 1
+Spicy Leek Curry: 1
+Grilled Tail Curry: 1
+Ninja Curry: 1
+Egg Bomb Curry: 1
+Dream Eater Butter Curry: 1
+Bean Ham Salad: 1
+Snoozy Tomato Salad: 1
+Fancy Apple Salad: 1
+Immunity Leek Salad: 1
+Snow Cloak Caesar Salad: 1
+Water Veil Tofu Salad: 1
+Heat Wave Tofu Salad: 1
+Superpower Extreme Salad: 1
+Moomoo Caprese Salad: 1
+Contrary Chocolate Meat Salad: 1
+Dazzling Apple Cheese Salad: 1
+Spore Mushroom Salad: 1
+Slowpoke Tail Pepper Salad: 1
+Overheat Ginger Salad: 1
+Gluttony Potato Salad: 1
+Ninja Salad: 1
+Fancy Apple Juice: 1
+Craft Soda Pop: 1
+Warm Moomoo Milk: 1
+Fluffy Sweet Potatoes: 1
+Cloud Nine Soy Cake: 1
+Ember Ginger Tea: 1
+Lucky Chant Apple Pie: 1
+Stalwart Vegetable Juice: 1
+Huge Power Soy Donuts: 1
+Hustle Protein Smoothie: 1
+Big Malasada: 1
+Sweet Scent Chocolate Cake: 1
+Steadfast Ginger Cookies: 1
+Lovely Kiss Smoothie: 1
+Neroli's Restorative Tea: 1
+Jigglypuff's Fruity Flan: 1
